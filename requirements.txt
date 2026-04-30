@@ -1,0 +1,17 @@
+tensorflow
+mediapipe==0.10.33
+opencv-python
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+tqdm
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.35.0
+efficientnet-pytorch
+opencv-contrib-python
+glob2
+ 
