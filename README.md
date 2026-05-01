@@ -68,4 +68,4 @@ MediaPipe:
 https://drive.google.com/drive/folders/1togDCyjosDnJqZidC0J3GvMVKMvhcGoV?usp=sharing
 
 DataFile:
-https://drive.google.com/file/d/1ZJVdkZD9Hh30xX_zVnxIxtKnXiURYlo4/view?usp=share_link
+https://drive.google.com/drive/folders/1BYLALxjiilcdV0dVeVbM9rew7CIwmW_N?usp=sharing
