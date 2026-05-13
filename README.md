@@ -12,12 +12,13 @@ projectCheckPoint01/
 ├── MediaPipeModel/
 │   └── blaze_face_short_range.tflite
 ├── report/   
-│   └── checkpoint2Report.pdf
+│   └── Dual_Channel_Deepfake_Detection.pdf
 ├── result/   
 │   └── Confusion Matrix.png
 │   └── ROC.png
+│   └── cross_dataset.png
 │   └── Performance_Matrix.png
-├── Checkpoint2Notebook.ipynb
+├── Dual_Channel_Deepfake_Detection.ipynb
 ├── evaluate.py  
 ├── models.py
 ├── training.py
