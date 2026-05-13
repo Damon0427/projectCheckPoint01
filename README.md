@@ -49,6 +49,9 @@ All project files were stored in Google Drive.
     # download 150 original videos with compression level c23.
      python3 datasetScript.py ./data -d original -c c23 -t videos -n 150 --server EU2           
     ```
+   - (Optional) Cross Dataset Evaluation:
+         Celeb Dataset: https://github.com/yuezunli/celeb-deepfakeforensics.
+         Once you filed out the google form, the download link will be provided. 
 
 2. Open `Project_CheckPoint1.ipynb` in Google Colab.
 3. Mount your Google Drive in Colab:
